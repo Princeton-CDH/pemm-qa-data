@@ -1,5 +1,5 @@
 Manuscript,Canonical Story ID,Canonical Story Title,Folio Start,Column Start,Line Start,Folio End,Column End,Line End,Miracle Number,Number of Paintings,Incipit,Macomber Incipit,Confidence Score,Notes
-PEM (PUL) 41,1-A,Vision of Theophilus of Alexandria.,21r,,,30r,,,8,,,FALSE,,
+PEM (PUL) 41,1-A,Vision of Theophilus of Alexandria.,21r,,,30r,,,8,,rsk test incipit indexing,FALSE,High,RSK cron job testing
 PEM (PUL) 41,1-A,Vision of Theophilus of Alexandria.,110v,,,113r,,,80,,,FALSE,,
 PEM (PUL) 41,1-A,Vision of Theophilus of Alexandria.,113r,,,115v,,,81,,,FALSE,,
 EMIP (HMML) 601,1-A,Vision of Theophilus of Alexandria.,139r,,,143v,,,225,,,FALSE,,
