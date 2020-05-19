@@ -1,4 +1,5 @@
 Name,Collection Abbreviation,Institution Abbreviation,Collection Name,Institution Name,Country,City,Latitude,Longitude,Source,Notes
+Collection Abbreviation (Institution Abbreviation),Collection Abbreviation,Institution Abbreviation,Collection Name,Institution Name,Country,City,Latitude,Longitude,Source,Notes
 EMDL (HMML),EMDL,HMML,"Ethiopian Manuscript Digital Library,",Hill Museum and Manuscript Library,United States,Collegeville,45.58139,-94.39176,"Ethiopian Manuscript Digital Library, digital copies of manuscripts in Ethiopia, deposited at HMML",
 EMIP (EMIP),EMIP,EMIP,Ethiopian Manuscript Imaging Project,,United States,Portland,,,"Ethiopian Manuscript Imaging Project, digital copies of manuscripts in Ethiopia by Steve Delamarter, deposited at BetaM",
 M-Dourgne (AEC),M-Dourgne,AEC,,Abbaye Saint Benoit d'en Calcat,France,Dourge,,,"AECE = Abbaye d’En Calcat, Dourgne, France, Ethiopic MS. (microfilm preserved in HMML; unpublished description by W.F. Macomber available there). Cannot look up, catalog unpublished, although perhaps the monastery has new information online",
@@ -27,5 +28,5 @@ B-Oslo (SCOL),B-Oslo,SCOL,,Schøyen Collection-London-Oslo,Norway,Oslo,,,"BM = L
 B-Dublin (CBL),B-Dublin,CBL,,Chester Beatty Library,United Kingdom,"Dublin, Ireland",,,"BM = Lady Meux Ethiopic manuscripts described by Budge, One Hundred; Lady Meux 2 and 3 (publ. by Budge 1900, 1922 and 1923 [s. above]) are now ms. Oslo – London, Schøyen Collection, Ms. 248 (formerly Lady Meux 2 [= ms. A in CerMaria], ca. 1682–1706, 39 miracles) and ms. Dublin, Chester Beatty Library 914 (formerly Lady Meux 3 [= ms. B in CerMaria], cp. Cerulli 1965a: 290f., 40 miracles).”",https://archive.org/details/gri_33125008690600/page/n31/mode/2up
 BLEM (BL),BLEM,BL,British Library Ethiopic Manuscripts,British Library,United Kingdom,London,,,,
 Unknown (ECM),Unknown,ECM,Unknown Ethiopian church or monastery,Unknown Ethiopian church or monastery,Ethiopia,Unknown,,,,
-Temporary fix,,,,,,,,,,
+,,,,,,,,,,
 T-Saint Petersburg (IVR),T-Saint Petersburg,IVR,,Institut Vostočnyh Rukopisej Rossijskoj Akademii Nauk,Russia,Saint Petersburg,,,"Turaev, B. 1906. Ėfiopskija rukopisi v S.-Peterburgě, Pamjatniki ėfiopskoj pis’mennosti, 3 (St Petersburg: Tipografija imperatorskoj Akademii Nauk, 1906), page 37-45 ",
