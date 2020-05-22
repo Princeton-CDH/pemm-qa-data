@@ -1,4 +1,5 @@
 Manuscript Name,ID,Title,Collection,Original Collection,Total Stories,Total Folios,Total Pages,Century,Date Range Start,Date Range End,Date Note,Provenance,Link,Notes,,,,,,,,,,,,,,,
+Collection ID,ID,Title,Collection,Original Collection,0,Total Folios,Total Pages,Century,Date Range Start,Date Range End,Date Note,Provenance,Link,Notes,,,,,,,,,,,,,,,
 Collection ID,ID,Title,Collection,Original Collection,0,Total Folios,Total Pages,Century,Date Range Start,Date Range End,Date Note,Provenance,Link,Notes,vHMML permalink (pending on 04/25/2020),Columns per page,Lines per column,Characters per line,Hamburg MS ID,Latitude,Longitude,Place Recorded/Purchased,Title from catalog,Total Stories according to catalog,Number of Paintings according to catalog,Link to catalog,Catalog has miracles records,Can be used for sequence (miracles folio range matches with catalog),Mss rebound in disorder or there are breaks in the sequence of TM
 ,,,,,,,,,1000,,,,,,,,,,,,,,,,,,,,
 B-Dublin (CBL) 914,914,,B-Dublin (CBL),,39,290,,1769-77,1769,1777,,,not online 3/22/2020,"Chester Beatty Library 914 (formerly Lady Meux 3, 290f., 40 miracles) (note Macomber has only 39)",,,,,,,,,,,,,,,
@@ -7,7 +8,7 @@ C-Berlin (BS) 1,1,,C-Berlin (BS),Unknown (ECM),87,,,end of 17th-beg of 18th says
 C-Dublin (CBL) 915,915,,C-Dublin (CBL),,1,,,19th,1800,1899,,,,,,,,,,,,,,,,,,,
 C-Dublin (CBL) 950,950,,C-Dublin (CBL),,2,,,17th,1600,1699,,,,,,,,,,,,,,,,,,,
 C-Dublin (CBL) 951,951,,C-Dublin (CBL),,34,,,19th,1800,1899,,,,,,,,,,,,,,,,,,,
-C-Florence (BNCF) 1,1,,C-Florence (BNCF),,16,,,1664 from 1563/97,,,,,,,,,,,,,,,,,,,,,
+C-Florence (BNCF) 1,1,,C-Florence (BNCF),,16,,,1664 from 1563/97,,1000,,,,,,,,,,,,,,,,,,,
 C-Florence (BNCF) 2,2,,C-Florence (BNCF),,24,,,1664 from 1478/94,,,,,,,,,,,,,,,,,,,,,
 C-Leningrad (RAN) 1,1,,C-Leningrad (RAN),,93,,,Late 15th,1475,1499,,,,,,,,,,,,,,,,,,,
 C-Veroli (BGV) 1,1,,C-Veroli (BGV),,147,,,1517-18,1517,1518,,,,,,,,,,,,,,,,,,,
